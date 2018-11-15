@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/CustomRouteProvider/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CustomRouteProvider/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CustomRouteProvider/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomRouteProvider/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to: Implement a Custom Route Provider
 
 
